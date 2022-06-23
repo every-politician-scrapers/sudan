@@ -1,0 +1,13 @@
+{
+    "jurisdiction": {
+        "name": "Sudan",
+        "id": "Q1049"
+    },
+    "cabinet": {
+        "id":     "Q112673227",
+        "start":  "2019-09-08",
+        "parent": "Q5015559"
+    },
+    "source": "https://en.wikipedia.org/wiki/Cabinet_of_Sudan",
+    "lang": "en"
+}
