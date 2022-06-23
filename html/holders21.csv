@@ -1,8 +1,5 @@
 position,person,personID,start,end,gender,DOB,DOD,image,enwiki
 President,Omar al-Bashir,Q57265,1989-06-30,2019-04-11,male,1944-01-01,,"Omar al-Bashir, 12th AU Summit, 090202-N-0506A-137 cropped.jpg",Omar al-Bashir
-Chairman of the Transitional Military Council,Ahmed Awad Ibn Auf,Q22949078,2019-04-11,2019-04-12,male,1956,,,Ahmed Awad Ibn Auf
-Chairman of the Transitional Military Council,Abdel Fattah al-Burhan,Q63111184,2019-04-12,2019-08-21,male,1960-07-11,,Chairman of the Sovereignty Council of Sudan Abdel Fattah Abdelrahman Burhan in October 2019 (cropped).jpg,Abdel Fattah al-Burhan
-Chairman of the Transitional Military Council,Abdel Fattah al-Burhan,Q63111184,2021-10-25,,male,1960-07-11,,Chairman of the Sovereignty Council of Sudan Abdel Fattah Abdelrahman Burhan in October 2019 (cropped).jpg,Abdel Fattah al-Burhan
 Vice President,George Kongor Arop,Q23540905,1995-08-12,2000-10-14,male,1951,,,George Kongor Arop
 Vice President,Ali Osman Taha,Q937264,1998-02,2005-01-09,male,1944-01-01,,Secretary Clinton Shakes Hands With Sudanese Vice President Ali Osman Taha.jpg,Ali Osman Taha
 Vice President,Moses Kacoul Machar,Q23541055,2001-02-23,2005-07-09,male,1945,,,Moses Kacoul Machar
@@ -16,9 +13,30 @@ Vice President,Hassabu Mohamed Abdalrahman,Q16127041,2013-12-07,2018-09-10,male,
 Vice President,Bakri Hassan Saleh,Q15700032,2013-12-08,2017-03-01,male,1949,,,Bakri Hassan Saleh
 Vice President,Osman Kebir,Q2161477,2018-09-10,2019-04-11,male,,,,Osman Kebir
 Vice President,Ahmed Awad Ibn Auf,Q22949078,2019-02-23,2019-04-11,male,1956,,,Ahmed Awad Ibn Auf
-Deputy Chairman of the Transitional Military Council,Kamal Abdel-Marouf al-Mahi,Q112315951,2019-04-11,2019-04-13,,,,,
+Chairman of the Transitional Military Council,Ahmed Awad Ibn Auf,Q22949078,2019-04-11,2019-04-12,male,1956,,,Ahmed Awad Ibn Auf
+Chairman of the Transitional Military Council,Abdel Fattah al-Burhan,Q63111184,2019-04-12,2019-08-21,male,1960-07-11,,Chairman of the Sovereignty Council of Sudan Abdel Fattah Abdelrahman Burhan in October 2019 (cropped).jpg,Abdel Fattah al-Burhan
+Deputy Chairman of the Transitional Military Council,Kamal Abdelmarouf,Q67199752,2019-04-11,2019-04-13,male,,,,
 Deputy Chairman of the Transitional Military Council,Mohamed Hamdan Daglo,Q63145660,2019-04-13,2019-08-21,male,1975,,,Mohamed Hamdan Dagalo
+Member of the Transitional Military Council,Chams Ad-din Chanto,Q112675159,2019-04-12,2019-08-20,,,,,
+Member of the Transitional Military Council,Galaledin Alcheikh,Q112675162,2019-04-12,2019-08-20,,,,,
+Member of the Transitional Military Council,Al-Tayeb Babakr Ali Fadil,Q112675165,2019-04-12,2019-08-20,,,,,
+Member of the Transitional Military Council,Omar Zain al-Abidin,Q112675167,2019-04-12,2019-08-20,,,,,
+Member of the Transitional Military Council,Gamal Omer,Q112675170,2019-04-12,2019-08-20,,,,,
+Member of the Transitional Military Council,Jamal Aldin Omar,Q88511256,2019-05-23,2020-03-25,male,1960-01,2020-03-25,,Jamal Aldin Omar
+Chairman of the Sovereignty Council,Abdel Fattah al-Burhan,Q63111184,2021-10-25,,male,1960-07-11,,Chairman of the Sovereignty Council of Sudan Abdel Fattah Abdelrahman Burhan in October 2019 (cropped).jpg,Abdel Fattah al-Burhan
 Deputy Chairman of the Sovereignty Council,Mohamed Hamdan Daglo,Q63145660,2019-08-21,2021-10-24,male,1975,,,Mohamed Hamdan Dagalo
+Member of the Sovereignty Council,Shams al-Din Khabbashi,Q112675183,2019-08-20,2021-10-25,male,,,,
+Member of the Sovereignty Council,Ibrahim Jabir Karim,Q112675187,2019-08-20,2021-10-25,male,,,,
+Member of the Sovereignty Council,Hassan Sheikh Idris,Q112675188,2019-08-20,2021-10-25,male,,,,
+Member of the Sovereignty Council,Mohammed Hassan al-Ta'ishi,Q112675194,2019-08-20,2021-10-25,male,,,,
+Member of the Sovereignty Council,Aisha Musa el-Said,Q66626452,2019-08-20,2021-10-25,female,,,,Aisha Musa el-Said
+Member of the Sovereignty Council,Raja Nicola,Q66627881,2019-08-20,2021-10-25,female,,,,Raja Nicola
+Member of the Sovereignty Council,Yasser al-Atta,Q72339610,2019-08-20,2021-10-25,,,,,
+Member of the Sovereignty Council,Mohamed al-Faki,Q72404668,2019-08-20,2021-10-25,male,,,,Mohamed al-Faki
+Member of the Sovereignty Council,Siddiq Tawer,Q74286126,2019-08-20,2021-10-25,male,,,,Siddiq Tawer
+Member of the Sovereignty Council,El Hadi Idris Yahya,Q112675203,2021-02-05,2021-10-25,male,,,,
+Member of the Sovereignty Council,El Tahrir Abubakr Hajar,Q112675210,2021-02-05,2021-10-25,,,,,
+Member of the Sovereignty Council,Malik Agar,Q6743558,2021-02-05,2021-10-25,male,,,Malik Agar governor 2009-08-19.jpg,Malik Agar
 Prime Minister,Omar al-Bashir,Q57265,1993-10-30,2002-08-19,male,1944-01-01,,"Omar al-Bashir, 12th AU Summit, 090202-N-0506A-137 cropped.jpg",Omar al-Bashir
 Prime Minister,Bakri Hassan Saleh,Q15700032,2017-03-02,2018-09-10,male,1949,,,Bakri Hassan Saleh
 Prime Minister,Motazz Moussa,Q56556415,2018-09-09,2018-09-15,male,1967,,"Mutaz Musa Abdulla meeting the Union Minister for Micro, Small and Medium Enterprises, Shri Kalraj Mishra cropped.jpg",Motazz Moussa
@@ -106,7 +124,7 @@ Minister of Defence,Mustafa Osman al Obeid,Q112325747,2015-06-07,2015-08-23,,,,,
 Minister of Defence,Mohamed Ahmed bin Awaf,Q112325727,2015-08-23,2019-02-23,,,,,
 Minister of Defence,Mohamed Ahmed bin Awaf,Q112325727,2019-02-23,2019-04-11,,,,,
 Minister of Defence,Jamal Aldin Omar,Q88511256,2019-09-08,2020-03-25,male,1960-01,2020-03-25,,Jamal Aldin Omar
-Minister of Defence,Yassin Ibrahim Yassin,Q112674341,2020-06-02,,,,,,
+Minister of Defence,Yassin Ibrahim Yassin,Q96060568,2020-06-02,,male,1958-07-11,,,
 Minister of Education,Paul Mithanq,Q112325754,2005-09-21,2007-12-26,,,,,
 Minister of Education,Hamid Muhammad Ibrahim,Q112325643,2007-12-26,2010-06-16,,,,,
 Minister of Education,Farah Mustafa Abdallah,Q112325629,2010-06-16,2011-12-27,,,,,
