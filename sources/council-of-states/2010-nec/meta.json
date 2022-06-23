@@ -1,0 +1,21 @@
+{
+    "position": "Q21328588",
+    "term": {
+        "id":       "Q112678199",
+        "start":    "2010-05-24",
+        "end":      "2015-04-13"
+    },
+    "lang": "en",
+    "reference": {
+        "P854": "http://nec.org.sd/new/new/eng_doc/Council.pdf",
+        "P1065": "https://web.archive.org/web/20110717164843/http://nec.org.sd/new/new/eng_doc/Council.pdf",
+        "P2960": "2011-07-17",
+        "P1476": {
+            "text": "Elected Members to the Council of the States",
+            "language": "en"
+        }
+    },
+    "person_description": {
+        "en": "Sudanese politician"
+    }
+}
