@@ -4,8 +4,12 @@
 require 'every_politician_scraper/comparison'
 
 class Comparison < EveryPoliticianScraper::DecoratedComparison
+  def external_csv_options
+    { converters: [->(v) { v.to_s.gsub('Independent', 'IND') }] }
+  end
+
   def columns
-    super - %i(arealabel partylabel) + %i[item psid]
+    super - %i(arealabel) + %i[item psid]
   end
 end
 
