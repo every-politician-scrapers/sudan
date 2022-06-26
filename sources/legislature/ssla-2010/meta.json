@@ -1,0 +1,21 @@
+{
+    "position": "Q53570068",
+    "term": {
+        "id":       "Q112728375",
+        "start":    "2010-04-15",
+        "end":      "2011-07-09",
+        "election": "Q2115119"
+    },
+    "lang": "en",
+    "reference": {
+        "P854": "https://paanluelwel.com/2011/08/03/kiir-transforms-south-sudan-parliament-reconstitutes-its-membership/",
+        "P577": "2011-08-03",
+        "P1476": {
+            "text": "MEMBERS OF THE FORMER SOUTHERN SUDAN LEGISLATIVE",
+            "language": "en"
+        }
+    },
+    "person_description": {
+        "en": "Sudanese politician"
+    }
+}
