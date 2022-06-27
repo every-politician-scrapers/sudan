@@ -1,4 +1,6 @@
 id,name,relationship,relative,relativename
+Q104687952,Abuk Payiti Ayik,spouse,Q11995405,Peter Adwok Nyaba
+Q11995405,Peter Adwok Nyaba,spouse,Q104687952,Abuk Payiti Ayik
 Q167444,John Garang,child,Q61993413,Akuol de Mabior
 Q167444,John Garang,spouse,Q3379134,Rebecca Nyandeng De Mabior
 Q20635399,Gibril Ibrahim,sibling,Q943027,Khalil Ibrahim
