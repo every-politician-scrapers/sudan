@@ -1,0 +1,23 @@
+{
+    "jurisdiction": {
+      "name": "Sudan",
+      "id": "Q1049"
+    },
+    "cabinet": {
+      "id":     "Q112799514",
+      "start":  "2015-06-07",
+      "end":    "2017-05-12",
+      "parent": "Q5015559"
+    },
+    "reference": {
+        "P854": "https://radiotamazuj.org/en/news/article/factbox-sudan-s-reshuffled-government",
+        "P577": "2015-06-08",
+        "P1476": {
+            "text": "Factbox: Sudan's reshuffled government",
+            "language": "en"
+        }
+    },
+    "person_description": {
+        "en": "politician in Sudan"
+    }
+}
