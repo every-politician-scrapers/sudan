@@ -1,4 +1,9 @@
 position,person,personID,start,end,gender,DOB,DOD,image,enwiki
+President of Southern Sudan,John Garang,Q167444,2005-07-09,2005-07-30,male,1945-06-23,2005-07-30,John Garang of Sudan.jpg,John Garang
+President of Southern Sudan,Salva Kiir Mayardit,Q57315,2005-07-30,2011-07-09,male,1951-09-13,,Salva Kiir Mayardit.jpg,Salva Kiir Mayardit
+Vice-President of Southern Sudan,Salva Kiir Mayardit,Q57315,2005-07-09,2005-08-11,male,1951-09-13,,Salva Kiir Mayardit.jpg,Salva Kiir Mayardit
+Vice-President of Southern Sudan,Riek Machar,Q444994,2005-08-11,2011-07-09,male,1953,,Riek Machar VOA photo.jpg,Riek Machar
+Minister for Co-operatives and Rural Development,Jimmy Lemi Milla,Q509205,2010,2011-02-09,male,1948-08-08,2011-02-09,,Jimmy Lemi Milla
 President,Omar al-Bashir,Q57265,1989-06-30,2019-04-11,male,1944-01-01,,"Omar al-Bashir, 12th AU Summit, 090202-N-0506A-137 cropped.jpg",Omar al-Bashir
 Vice President,George Kongor Arop,Q23540905,1995-08-12,2000-10-14,male,1951,,,George Kongor Arop
 Vice President,Ali Osman Taha,Q937264,1998-02,2005-01-09,male,1944-01-01,,Secretary Clinton Shakes Hands With Sudanese Vice President Ali Osman Taha.jpg,Ali Osman Taha
@@ -97,7 +102,7 @@ Minister of Cabinet Affairs,Hashim Mohamed Salim,Q112325648,2018-05-14,2018-09-0
 Minister of Cabinet Affairs,Ahmed Saad Omar Khidir,Q112325569,2018-09-09,2019-04-11,,,,,
 Minister of Cabinet Affairs,Omar Munis,Q112674337,2019-09-08,2021-02-09,,,,,
 Minister of Cabinet Affairs,Khaled Omar,Q112674338,2021-02-09,,,,,,
-Minister of Communications and Information Technology,Ghazi Salahedine Atabanai,Q112325633,2001-02-23,2001-06-14,,,,,
+Minister of Communications and Information Technology,Ghazi Salah al-Din al-Atabani,Q12229359,2001-02-23,2001-06-14,male,1951-11-15,,,Ghazi Salah al-Din al-Atabani
 Minister of Communications and Information Technology,Mahdi Ibrahim,Q112325682,2001-06-14,2005-09-21,,,,,
 Minister of Communications and Information Technology,Al-Zahawi Ibrahim Malik,Q112325582,2007-12-26,2010-06-16,,,,,
 Minister of Communications and Information Technology,Yahiya Abdalla Mohamed Hamad,Q112325802,2010-06-16,2011-12-27,,,,,
@@ -105,7 +110,7 @@ Minister of Communications and Information Technology,Mohamed Abdul Karim Al-Hud
 Minister of Communications and Information Technology,Tahani Abdallah Attiya,Q112325798,2015-06-07,2018-09-09,,,,,
 Minister of Communications and Information Technology,Hassan Ismail Sid Ahmed,Q112325651,2019-03-13,2019-04-11,,,,,
 Minister of Communications and Information Technology,Hashem Hasabelrasoul,Q112674339,2021-02-09,,,,,,
-Minister of Culture,Ghazi Salahedine Atabanai,Q112325633,1998-03-09,2001-02-23,,,,,
+Minister of Culture,Ghazi Salah al-Din al-Atabani,Q12229359,1998-03-09,2001-02-23,male,1951-11-15,,,Ghazi Salah al-Din al-Atabani
 Minister of Culture,Abdul Basit Abdulmajid,Q112325550,2001-02-23,2002-08-19,,,,,
 Minister of Culture,Abdul Basit Abdulmajid,Q112325550,2002-08-19,2005-09-21,,,,,
 Minister of Culture,Mohammed Yusuf Abdallah,Q112325736,2005-09-21,2010-06-16,,,,,
@@ -175,7 +180,7 @@ Minister of Finance and Economy,Magdi Hassan Yassin,Q112325681,2019-03-13,2019-0
 Minister of Finance and Economy,Ibrahim Elbadawi,Q96632057,2019-09-08,2020-07-09,male,1954,,,
 Minister of Finance and Economy,Hiba Mohammed Ali,Q112674348,2020-07-09,2021-02-09,,,,,
 Minister of Finance and Economy,Gibril Ibrahim,Q20635399,2021-02-09,,male,1955-01-01,,GibrilIbrahimJEM Hermannsburg RomanDeckert11062015.jpg,Gibril Ibrahim
-Minister of Foreign Affairs,Moustafa Osmane Ismail,Q112325741,1998-02-12,2005-09-21,,,,,
+Minister of Foreign Affairs,Mustafa Osman Ismail,Q6943310,1998-02-12,2005-09-21,male,1955,,Ambassadors’ Roundtable on Investing in the SDGs (44653871455).jpg,Mustafa Osman Ismail
 Minister of Foreign Affairs,Lily Albino Akol Akol,Q50379451,2005-09-21,2007-12-26,female,,,"H.E. Ms. Lily AKOL, ITU Official Visits (cropped).jpg",Lily Albino Akol Akol
 Minister of Foreign Affairs,Deng Alor Kuol,Q5256910,2007-12-26,2010-06-16,male,,,Deng Alor Kuol - 2018 (44868626572) (cropped).jpg,Deng Alor Kuol
 Minister of Foreign Affairs,Ali Ahmed Karti,Q12228166,2010-06-16,2015-06-07,male,1953-10-27,,Ali Ahmed Karti Cropped.jpg,Ali Ahmed Karti
@@ -263,7 +268,7 @@ Minister of Investment,Al-Sharif Ahmed Omar Badr,Q100258784,2002-11-30,2005-09-2
 Minister of Investment,Malek Agar Ayar,Q112325715,2005-09-21,2007-12-26,,,,,
 Minister of Investment,Kosti Manibe,Q112325675,2007-12-26,2008-09-14,,,,,
 Minister of Investment,George Boreng Niyami,Q112325632,2008-09-14,2011-12-27,,,,,
-Minister of Investment,Moustafa Osmane Ismail,Q112325741,2013-12-08,2015-06-07,,,,,
+Minister of Investment,Mustafa Osman Ismail,Q6943310,2013-12-08,2015-06-07,male,1955,,Ambassadors’ Roundtable on Investing in the SDGs (44653871455).jpg,Mustafa Osman Ismail
 Minister of Investment,Modathir Abdul-Ghani Abdul-Rahman,Q112325723,2015-06-07,2017-05-12,,,,,
 Minister of Investment,Mubarak al Fadil al Mahdi,Q6930870,2017-05-12,2018-09-09,male,1950,,,Mubarak al Fadil al Mahdi
 Minister of Investment,Mohamed Ibrahim,Q112674359,2021-02-09,,,,,,
@@ -379,12 +384,60 @@ Minister of Youth and Sports,Abdul-Karim Musa,Q112325554,2017-05-12,2018-05-14,,
 Minister of Youth and Sports,Abu-al-Bashir Abd-al-Rahman Yusuf,Q112325562,2018-05-14,2018-09-09,,,,,
 Minister of Youth and Sports,Wala'a Essam al-Boushi,Q67163842,2019-09-08,2021-02-09,female,1986,,IMG-20191007-WA0028 (1).jpg,Wala'a Essam al-Boushi
 Minister of Youth and Sports,Yousef El Dai,Q112674368,2021-02-09,,,,,,
+Minister of State for Agriculture,Ann Iko,Q112792341,2005-09-20,2007-12-26,,,,,
+Minister of State for Animal Resources,Daniel Awet Akot,Q16145815,2005-09-20,2007-12-26,male,,,,Daniel Awet Akot
+Minister of State for Cabinet Affairs,Kamal Abdel Latif,Q112792357,2005-09-20,2007-12-26,,,,,
+Minister of State for Culture and Youth,Abdelkader Mohammed Zein,Q112792324,2005-09-20,2007-12-26,,,,,
+Minister of State for Culture and Youth,Mohammed Abu Zeid Mustafa,Q112792364,2005-09-20,2007-12-26,,,,,
+Minister of State for Culture and Youth,Mohammed Ahmed Abu Kalabish,Q112792366,2005-09-20,2007-12-26,,,,,
+Minister of State for Energy and Mining,John Luk Jok,Q6245500,2005-09-20,2007-12-26,male,1951,2020-06-02,,John Luk Jok
+Minister of State for Environment,Mohammed Merkazu Kok,Q112792367,2005-09-20,2007-12-26,,,,,
+Minister of State for Environment,Teresa Eyru,Q112792377,2005-09-20,2007-12-26,,,,,
+Minister of State for Federal Government,John Angol,Q112792355,2005-09-20,2007-12-26,,,,,
+Minister of State for Finance,Ahmed al-Majzub,Q112792327,2005-09-20,2007-12-26,,,,,
+Minister of State for Finance,Ali Mohammed Abdel Rassul,Q112792337,2005-09-20,2007-12-26,,,,,
+Minister of State for Finance,Luwal Ashweil Deng,Q112792359,2005-09-20,2007-12-26,,,,,
+Minister of State for Foreign Affairs,Ali Ahmed Kerti,Q112792333,2005-09-20,2007-12-26,,,,,
+Minister of State for Foreign Affairs,Samani al-Wasila al-Sheikh,Q112792373,2005-09-20,2007-12-26,,,,,
+Minister of State for Foreign Trade,Salman Suleiman al-Safi,Q112792372,2005-09-20,2007-12-26,,,,,
+Minister of State for Health,Fateh Mohammed Said,Q112792348,2005-09-20,2007-12-26,,,,,
+Minister of State for Higher Education,Mubarak Majzub Mohammed,Q112792369,2005-09-20,2007-12-26,,,,,
+Minister of State for Higher Education,Saleh Ali Adam,Q112792371,2005-09-20,2007-12-26,,,,,
+Minister of State for Humanitarian Affairs,Ahmed Haroun,Q400652,2005-09-20,2007-12-26,male,1964-01-01,,,Ahmed Haroun
+Minister of State for Industry,Ali Ahmed Osman,Q112792335,2005-09-20,2007-12-26,,,,,
+Minister of State for Industry,Timothy Atut Ajuk,Q112792378,2005-09-20,2007-12-26,,,,,
+Minister of State for Information,Farah Ibrahim Agar,Q112792344,2005-09-20,2007-12-26,,,,,
+Minister of State for Interior,Alio Abini Alio,Q112792339,2005-09-20,2007-12-26,,,,,
+Minister of State for International Cooperation,Barnaba Marial Benjamin,Q4861322,2005-09-20,2007-12-26,male,,,Barnaba Marial Benjamin.jpg,Barnaba Marial Benjamin
+Minister of State for Investment,Al-Samih Sadeq,Q112792329,2005-09-20,2007-12-26,,,,,
+Minister of State for Justice,William Ajak Deng,Q112792379,2005-09-20,2007-12-26,,,,,
+Minister of State for Labour,Mohammed Yusuf Mustafa,Q112792368,2005-09-20,2007-12-26,,,,,
+Minister of State for Presidential Affairs,Idris Mohammed Abdel Kader,Q112792353,2005-09-20,2007-12-26,,,,,
+Minister of State for Presidential Affairs,Telar Reng Deng,Q112792376,2005-09-20,2007-12-26,,,,,
+Minister of State for Social Affairs,Sami Yassin Abdel Dayem,Q112792374,2005-09-20,2007-12-26,,,,,
+Minister of State for Transport,Omar Suleiman,Q112792370,2005-09-20,2007-12-26,,,,,
+Minister of State for Water Resources,Mayom Koj Malika,Q112792362,2005-09-20,2007-12-26,,,,,
+Special Advisor to the President,Ali Tamim Fartak,Q112325587,2005-09-20,2007-12-26,,,,,
+Special Advisor to the President,Abdallah Ali Masar,Q112792322,2005-09-20,2007-12-26,,,,,
+Special Advisor to the President,Ahmed Ali Imam,Q112792326,2005-09-20,2007-12-26,,,,,
+Special Advisor to the President,Bona Malawal,Q112792343,2005-09-20,2007-12-26,,,,,
+Special Advisor to the President,Farida Ibrahim Ahmed Hussein,Q112792346,2005-09-20,2007-12-26,,,,,
+Special Advisor to the President,Ghazi Salaheddin al-Attabani,Q112792350,2005-09-20,2007-12-26,,,,,
+Special Advisor to the President,Harun Ron Lual,Q112792351,2005-09-20,2007-12-26,,,,,
+Special Advisor to the President,Majzoub al-Khalifa,Q112792360,2005-09-20,2007-12-26,,,,,
+Special Advisor to the President,Mansour Khalid,Q12245618,2005-09-20,2007-12-26,male,1931-01-17,2020-04-22,,Mansour Khalid
+Special Advisor to the President,Riek Gai Kok,Q16204805,2005-09-20,2007-12-26,male,,,,Riek Gai Kok
+Special Advisor to the President,Ahmed Bilal Osman,Q4695771,2005-09-20,2007-12-26,male,,,,Ahmed Bilal Osman
+Special Advisor to the President,Mustafa Osman Ismail,Q6943310,2005-09-20,2007-12-26,male,1955,,Ambassadors’ Roundtable on Investing in the SDGs (44653871455).jpg,Mustafa Osman Ismail
 Head of the National Intelligence and Security Service,Jamal Abdelmajeed,Q112674332,2020-01-16,,,,,,
 Speaker of the National Assembly,Ibrahim Ahmed Omer,Q111184176,2015,2019,male,1939-12-19,,A I omer.jpg,
-President of Southern Sudan,John Garang,Q167444,2005-07-09,2005-07-30,male,1945-06-23,2005-07-30,John Garang of Sudan.jpg,John Garang
-President of Southern Sudan,Salva Kiir Mayardit,Q57315,2005-07-30,2011-07-09,male,1951-09-13,,Salva Kiir Mayardit.jpg,Salva Kiir Mayardit
-Vice-President of Southern Sudan,Salva Kiir Mayardit,Q57315,2005-07-09,2005-08-11,male,1951-09-13,,Salva Kiir Mayardit.jpg,Salva Kiir Mayardit
-Vice-President of Southern Sudan,Riek Machar,Q444994,2005-08-11,2011-07-09,male,1953,,Riek Machar VOA photo.jpg,Riek Machar
+Governor of the Central Bank,Sabir Mohammed El-Hassan,Q112790238,1998,2011,,,,,
+Governor of the Central Bank,Mohamed Kheir El-Zubeir,Q112790237,2011-03-08,2013-12-15,,,,,
+Governor of the Central Bank,Abdelrahman Hassan Abdelrahman Hashim,Q112790233,2013-12-15,2016-12-28,,,,,
+Governor of the Central Bank,Hazim Abdegadir Ahmed Babiker,Q112790234,2016-12-28,2018-06-16,,,,,
+Governor of the Central Bank,Mohamed Kheir El-Zubeir,Q112790237,2018-09-16,2019-03-06,,,,,
+Governor of the Central Bank,Hussein Yahya Jangoul al-Basha,Q112790235,2019-03,2019-12-10,,,,,
+Governor of the Central Bank,Mohamed Elfatih Zein al-Abdein,Q112790236,2020-03-19,,,,,,
 Chief Administrator of the Abyei Area,Arop Moyak,Q112684319,2008-08-31,2009-12-30,male,,,,
 Chief Administrator of the Abyei Area,Deng Arop Kuol,Q112684322,2009-12-30,2013-05-21,male,,,,
 Chief Administrator of the Abyei Area,Kuol Monyluak Dak,Q112684324,2013-05,2015-03,male,,,,
@@ -409,6 +462,7 @@ Governor of Al Qadarif,Sulaiman Ali Muhammad Musa,Q112765975,2020-07-27,,,,,,
 Governor of Red Sea,Abdullah Chingray Ohaj,Q112765974,2020-07-27,,,,,,
 Governor of River Nile,Amna Ahmed Mohamed Ahmed al-Makki,Q112765973,2020-07-27,,,,,,
 Governor of Sennar,Al-Mahi Muhammad Suleiman al-Mahi,Q112765964,2020-07-27,,,,,,
+Governor of South Darfur,Salah Ali Al-Ghali,Q7403428,2001,,male,,,,Salah Ali Al-Ghali
 Governor of South Darfur,Abdul-Hamid Musa Kasha,Q22948908,2010-04,2012-01,male,,,Abdel-hamid Musa kasha.jpeg,Abdul-Hamid Musa Kasha
 Governor of South Darfur,Musa Mahdi Ishaq,Q112765963,2020-07-27,,,,,,
 Governor of South Kordofan,Hamed al-Bashir Ibrahim,Q112765984,2020-07-27,,,,,,
