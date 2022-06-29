@@ -1,0 +1,23 @@
+{
+    "jurisdiction": {
+      "name": "Sudan",
+      "id": "Q1049"
+    },
+    "cabinet": {
+      "id":     "Q112795889",
+      "start":  "2010-06-17",
+      "end":    "2011-12-07",
+      "parent": "Q5015559"
+    },
+    "reference": {
+        "P854": "https://sudantribune.com/article35156/",
+        "P577": "2010-06-15",
+        "P1476": {
+            "text": "LIST: Cabinet members in new Sudan government",
+            "language": "en"
+        }
+    },
+    "person_description": {
+        "en": "politician in Sudan"
+    }
+}
