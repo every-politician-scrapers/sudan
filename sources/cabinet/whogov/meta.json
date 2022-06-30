@@ -1,0 +1,12 @@
+{
+    "jurisdiction": {
+        "name": "Sudan",
+        "id": "Q5015559"
+    },
+    "cabinet": {
+      "parent": "Q5015559"
+    },
+    "source": {
+        "id":   "Q112202385"
+    }
+}
