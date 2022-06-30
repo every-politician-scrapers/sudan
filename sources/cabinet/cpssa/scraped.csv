@@ -11,10 +11,10 @@ Q27654948,Abdallah Hamdok,Q105926147,Finance and Economic Planning,2018-09-09,20
 Q112325542,Abdallah Hassan Ahmed,Q112325293,International Cooperation and Investment,1998-03-09,2000-01-24
 Q112325543,Abdallah Mohammed Sid Ahmed,Q112325268,Animal Health,2000-01-24,2001-02-23
 Q112325544,Abdalrahman Said,Q112325284,Federal Government,2007-12-26,2010-06-16
-Q112325545,Abdel Rahmi Mohamed Hussein,Q112325292,Interior,1998-03-09,2000-07-10
-Q112325545,Abdel Rahmi Mohamed Hussein,Q112325306,Presidential Affairs,2000-07-10,2001-02-23
-Q112325545,Abdel Rahmi Mohamed Hussein,Q112325292,Interior,2001-02-23,2005-09-21
-Q112325545,Abdel Rahmi Mohamed Hussein,Q85851442,Defence,2005-09-21,2015-06-07
+Q307796,Abdel Rahmi Mohamed Hussein,Q112325292,Interior,1998-03-09,2000-07-10
+Q307796,Abdel Rahmi Mohamed Hussein,Q112325306,Presidential Affairs,2000-07-10,2001-02-23
+Q307796,Abdel Rahmi Mohamed Hussein,Q112325292,Interior,2001-02-23,2005-09-21
+Q307796,Abdel Rahmi Mohamed Hussein,Q85851442,Defence,2005-09-21,2015-06-07
 Q112325546,Abdel Wahab Osmane,Q105926147,Finance and National Economy,1996-04-21,2000-01-24
 Q112325547,Abdel Wahid Yousif Ibrahim,Q112325292,Interior,2013-12-08,2014-06-25
 Q112325547,Abdel Wahid Yousif Ibrahim,Q112325309,Roads and Bridges,2014-06-25,2015-06-07
@@ -136,8 +136,8 @@ Q112325632,George Boreng Niyami,Q112325283,External Trade,2005-09-21,2007-12-26
 Q112325632,George Boreng Niyami,Q111192544,Higher Education and Scientific Research,2007-12-26,2008-09-14
 Q112325632,George Boreng Niyami,Q112325294,Investment,2008-09-14,2011-12-27
 Q23540905,George Kongor Arop,Q7925069,Vice-President,1995-08-12,2000-10-14
-Q112325633,Ghazi Salahedine Atabanai,Q112325276,Culture and Information,1998-03-09,2001-02-23
-Q112325633,Ghazi Salahedine Atabanai,Q112325275,Communications and Information,2001-02-23,2001-06-14
+Q12229359,Ghazi Salahedine Atabanai,Q112325276,Culture and Information,1998-03-09,2001-02-23
+Q12229359,Ghazi Salahedine Atabanai,Q112325275,Communications and Information,2001-02-23,2001-06-14
 Q112325635,Ghazi al-Sidiq Abdul-Rahim,Q112325271,"Antiquities, Tourism and Wildlife",2011-12-27,2012-07-09
 Q112325635,Ghazi al-Sidiq Abdul-Rahim,Q112325308,Religious Affairs,2012-07-09,2012-08-19
 Q112325636,Gutbi el Mahdi,Q112325311,Social Welfare,2000-01-24,2001-02-23
@@ -236,16 +236,16 @@ Q112325732,Mohammed Osman Suleiman Rikabi,Q105926147,Finance,2017-05-12,2018-09-
 Q112325733,Mohammed Tahi Aila,Q112325314,Tourism and Environment,1996-04-21,2000-01-24
 Q112325733,Mohammed Tahi Aila,Q112325309,Roads and Telecommunications,2000-01-24,2001-02-23
 Q112325733,Mohammed Tahi Aila,Q112325309,Roads and Bridges,2001-02-23,2005-09-21
-Q112325734,Mohammed Tahir Ella,Q30100623,"Prime Minister, Finance, and Economic Planning",2019-02-23,2019-03-13
-Q112325734,Mohammed Tahir Ella,Q30100623,Prime Minister,2019-03-13,2019-04-11
+Q48728938,Mohammed Tahir Ella,Q30100623,"Prime Minister, Finance, and Economic Planning",2019-02-23,2019-03-13
+Q48728938,Mohammed Tahir Ella,Q30100623,Prime Minister,2019-03-13,2019-04-11
 Q112325735,Mohammed Yousif Ali Yousif,Q112325290,Industry,2015-06-07,2017-05-12
 Q112325736,Mohammed Yusuf Abdallah,Q112325276,"Culture, Youth and Sport",2005-09-21,2010-06-16
 Q112325738,Mohammed al-Amin Issa Kabbashi,Q112325266,Agriculture and Forests,2005-09-21,2008-02-13
 Q112325739,Mohammed al-Amine Khalifa,Q112325274,Minister of Cabinet Affairs,1998-03-09,2000-01-24
 Q112325740,Mohmed Abu-Fatima,Q112325300,Minerals,2019-03-13,2019-04-11
 Q23541055,Moses Machar,Q7925069,Vice-President,2001-02-23,2005-07-09
-Q112325741,Moustafa Osmane Ismail,Q109984815,Foreign Affairs,1998-02-12,2005-09-21
-Q112325741,Moustafa Osmane Ismail,Q112325294,Investment,2013-12-08,2015-06-07
+Q6943310,Moustafa Osmane Ismail,Q109984815,Foreign Affairs,1998-02-12,2005-09-21
+Q6943310,Moustafa Osmane Ismail,Q112325294,Investment,2013-12-08,2015-06-07
 Q56556415,Muattaz Musa Abdallah Salim,Q112325318,Water Resources and Electricity,2013-12-08,2015-06-07
 Q56556415,Muattaz Musa Abdallah Salim,Q112325318,"Water Resources, Irrigation, and Electricity",2015-06-07,2018-09-09
 Q56556415,Muattaz Musa Abdallah Salim,Q30100623,Prime Minister,2018-09-09,2018-09-15

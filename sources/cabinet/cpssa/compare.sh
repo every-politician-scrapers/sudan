@@ -13,6 +13,6 @@ qsv join --left position cpssa.csv raw reconciled-positions.csv |
 
 wd sparql -f csv wikidata.js | sed -e 's/T00:00:00Z//g' -e 's#http://www.wikidata.org/entity/##g' | qsv dedup -s psid | qsv sort -s itemLabel,startDate > wikidata.csv
 
-bundle exec ruby diff.rb | qsv sort -s itemlabel,positionlabel | tee diff.csv
+bundle exec ruby diff.rb | qsv sort -s itemlabel,positionlabel | qsv search -v -- '---' | tee diff.csv
 
 cd ~-
