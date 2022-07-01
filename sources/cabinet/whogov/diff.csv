@@ -165,9 +165,9 @@
 +++,,Ali Mohammed Osman Yassin,,Attorney General,2000,2016
 +++,,Ali Mohammed Osman Yassin,,Min. Of Justice,2000,2002
 +++,,Ali Mohammed Osman Yassin,,Min. Of Justice & Prosecutor General,2003,2005
----,Q937264,Ali Osman Mohamed Taha,Q7925069,Vice-President,2005-07-09,2011-09-13
 ---,Q937264,Ali Osman Mohamed Taha,Q7925069,Vice-President,1998-02-01,2005-01-09
 ---,Q937264,Ali Osman Mohamed Taha,Q7925069,Vice-President,2011-09-13,2013-12-06
+---,Q937264,Ali Osman Mohamed Taha,Q7925069,Vice-President,2005-07-09,2011-09-13
 +++,,Ali Osman Mohammed Taha,,First Vice President,2012,2013
 +++,,Ali Osman Mohammed Taha,,First Vice President,2000,2005
 +++,,Ali Osman Mohammed Taha,Q7925069,Vice President,2006,2011
@@ -211,12 +211,34 @@
 ---,Q112325599,Bahr Idris Abu Garda,Q112325286,Health,2011-12-27,2018-09-09
 ---,Q112325599,Bahr Idris Abu Garda,Q112325292,Interior,2019-03-13,2019-04-11
 ---,Q112325599,Bahr Idris Abu Garda,Q112325298,"Labour, Administrative Reform, and Human Development",2018-09-09,2019-03-13
+---,Q15700032,Bakri Hassan Saleh,Q85851442,Defence,2000-07-10,2005-09-21
+---,Q15700032,Bakri Hassan Saleh,Q112325306,Presidential Affairs,1998-03-09,2000-07-10
+---,Q15700032,Bakri Hassan Saleh,Q112325306,Presidential Affairs,2005-09-21,2013-12-08
+---,Q15700032,Bakri Hassan Saleh,Q7925069,Vice-President,2013-12-08,2017-03-01
+---,Q15700032,Bakri Hassan Saleh,Q7925069,Vice-President,2013-12-07,2019-02-23
+---,Q15700032,Bakri Hassan Saleh,Q30100623,Vice-President and Prime Minister,2017-03-02,2018-09-10
++++,,Bakri Hassan Salih,,First Vice President,2014,2016
++++,,Bakri Hassan Salih,,Min. For Presidential Affairs,2000,2000
++++,,Bakri Hassan Salih,,Min. Of Defense,2001,2005
++++,,Bakri Hassan Salih,,Min. Of Presidential Affairs,2012,2013
++++,,Bakri Hassan Salih,,Min. Of The Presidency,2006,2011
 ---,Q112325600,Barakat Musa al-Hawati,Q112325284,Federal Government,2019-03-13,2019-04-11
 ---,Q112325618,Bushara Aru,Q112325270,Animal Resources,2017-05-12,2018-09-09
 ---,Q112325618,Bushara Aru,Q112325291,"Information, Communications and Information Technology",2018-09-09,2019-04-11
 ---,Q112325619,Chamboul Adlane,Q112325273,Aviation,2000-07-10,2001-02-23
 +++,,Chol Deng,,State Min. Of External Relations,2001,2002
+->,Q112325620,Chol Ram Pang,Q112325317,Transport->Min. Of Transportation,2010-06-16->2010,2011-12-27->2011
 +++,,Daffa Alla Al Haj Ali Osman,,"Permanent Representative To The Un, New York",2011,2013
++++,,Dak Dob Bishop,,Min. Of Labor,2010,2011
+---,Q112325621,Dak Dop Pishop,Q112325298,Labour,2010-06-16,2011-12-27
+---,Q5256910,Deng Alor Kuol,Q109984815,Foreign Affairs,2007-12-26,2010-06-16
++++,,Deng Alor Kuol,,Min. Of Cabinet Affairs,2006,2007
++++,,Deng Alor Kuol,,Min. Of Foreign Affairs,2008,2009
+---,Q5256910,Deng Alor Kuol,Q112325274,Minister of Cabinet Affairs,2005-09-21,2007-12-26
+---,Q112325622,Eissa Bushra Mohamed,Q111192637,Science and Communications,2012-07-09,2013-12-08
+---,Q112325622,Eissa Bushra Mohamed,Q111192637,Science and Technology,2010-06-16,2012-07-09
++++,,Eissa Bushra Mohammed,,Min. Of Science & Communications,2013,2013
++++,,Eissa Bushra Mohammed,,Min. Of Science & Technology,2010,2012
 +++,,El Fatih Mohammed Ahmad Erwa,,"Permanent Representative To The Un, New York",2000,2006
 ---,Q112325623,El Zubair Bashir Taha,Q112325266,Agriculture and Forests,2008-02-13,2010-06-16
 ---,Q112325623,El Zubair Bashir Taha,Q111192544,Higher Education and Scientific Research,2000-01-24,2001-02-23
@@ -305,8 +327,8 @@
 ---,Q21933547,Ibrahim Ghandour,Q109984815,Foreign Affairs,2015-06-07,2018-04-19
 ---,Q5984644,Ibrahim Mahmoud Hamad,Q112325266,Agriculture,2013-12-08,2015-06-07
 ---,Q5984644,Ibrahim Mahmoud Hamad,Q112325289,Humanitarian Affairs,2002-11-30,2005-09-21
----,Q5984644,Ibrahim Mahmoud Hamad,Q112325292,Interior,2008-02-13,2013-12-08
 ---,Q5984644,Ibrahim Mahmoud Hamad,Q112325292,Interior,2018-05-14,2018-09-09
+---,Q5984644,Ibrahim Mahmoud Hamad,Q112325292,Interior,2008-02-13,2013-12-08
 +++,,Ibrahim Mahmoud Hamid,Q112325266,Min. Of Agriculture & Irrigation,2014,2014
 +++,,Ibrahim Mahmoud Hamid,,Min. Of Humanitarian Affairs,2003,2005
 +++,,Ibrahim Mahmoud Hamid,,Min. Of Interior,2008,2013
@@ -366,8 +388,8 @@
 ---,Q112325667,Kamal Abdul-Latif,Q112325300,Minerals,2011-12-27,2013-12-08
 ---,Q112325668,Kamal Ali Mohammed,Q112325296,Irrigation and Water Resources,1999-03-06,2011-12-27
 +++,,Kamal Ali Mohammed,,Min. Of Irrigation,2000,2004
-+++,,Kamal Ali Mohammed,,Min. Of Irrigation & Water Resources,2005,2005
 +++,,Kamal Ali Mohammed,,Min. Of Irrigation & Water Resources,2010,2011
++++,,Kamal Ali Mohammed,,Min. Of Irrigation & Water Resources,2005,2005
 +++,,Kamal Ali Mohammed,,Min. Of Water Resources,2006,2009
 ---,Q112325669,Kamal Mohamed Obeid,Q112325291,Information,2010-06-16,2011-12-27
 +++,,Kamal Mohammed Obied,,Min. Of Information,2010,2011
@@ -576,8 +598,8 @@
 ---,Q112674346,Youssef Adam Aldai,Q112325284,Minister of Federal Government,2019-09-08,2021-02-09
 ---,Q112325803,Yusuf Sulayman Takana,Q112325293,International Cooperation,2002-08-19,2005-09-21
 +++,,Yusuf Suleiman Takana,,Min. Of International Cooperation,2003,2005
-+++,,Zahawi Ibrahim Malek,,Min. Of Information & Communication,2003,2004
 +++,,Zahawi Ibrahim Malek,,Min. Of Information & Communication,2006,2009
++++,,Zahawi Ibrahim Malek,,Min. Of Information & Communication,2003,2004
 ---,Q106661767,Zubair Ahmed al-Hassan,Q112325281,Energy and Mining,2008-02-13,2010-06-16
 ---,Q106661767,Zubair Ahmed al-Hassan,Q105926147,Finance,2002-05-07,2008-02-13
 +++,,Zubeir Bashir Taha,Q112325266,Min. Of Agriculture & Forestry,2008,2009
