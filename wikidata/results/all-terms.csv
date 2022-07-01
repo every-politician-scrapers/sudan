@@ -1,4 +1,5 @@
 house,ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision,abolished,abolishedPrecision,endTime,endTimePrecision,replaces,replacesLabel,replacedBy,replacedByLabel,follows,followsLabel,followedBy,followedByLabel
+Q1969569,,Q112730070,2010-2015 National Assembly of Sudan,2010-05-24,11,,,,,2015-04-13,11,,,,,,,,
 Q4902948,,Q112675937,2005-2010 National Legislature,2005-08-31,11,,,2010-04-11,11,,,,,Q112678199,2010-2015 National Legislature,,,,
 Q4902948,,Q112678199,2010-2015 National Legislature,2010-05-24,11,,,2015-04-13,11,,,Q112675937,2005-2010 National Legislature,Q112683542,2015-2019 National Legislature,,,,
 Q4902948,,Q112683542,2015-2019 National Legislature,2015-06-01,11,,,2019-04-11,11,,,Q112678199,2010-2015 National Legislature,Q73605391,Transitional Legislative Council (Sudan),,,,
