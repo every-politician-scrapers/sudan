@@ -1,0 +1,21 @@
+{
+    "position": "Q21328630",
+    "term": {
+        "id":       "Q112683542",
+        "start":    "2015-06-01",
+        "end":      "2019-04-11",
+        "election": "Q22341344"
+    },
+    "lang": "en",
+    "reference": {
+        "P854": "https://sudantribune.com/article53280/",
+        "P577": "2015-04-19",
+        "P1476": {
+            "text": "Independent candidates big winners in Sudan elections",
+            "language": "en"
+        }
+    },
+    "person_description": {
+        "en": "Sudanese politician"
+    }
+}
