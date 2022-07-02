@@ -1,17 +1,5 @@
-@@,itemlabel,party,item,psid
-+++,Abu al-Gasim Bartam,IND,,
-+++,Ahmed Barsham Mohamed,IND,,
-+++,Al-Tayeb Ahmed Ali,IND,,
-+++,Ali Mahmoud,IND,,
-+++,Ali Youssef Dafa’allah,IND,,
-+++,Fathi Mohamed Issa,IND,,
-+++,Hamid Sharif,IND,,
-+++,Harazim Ahmed al-Mahboub,IND,,
-+++,Ismail Abdallah,IND,,
-+++,Mohamed Adam Bahshain,IND,,
-+++,Mohamed al-Tahir Aseel,IND,,
-+++,Mubarak Abas,IND,,
-+++,Mubarak al-Nour,IND,,
-+++,Omer Suleiman Adam,IND,,
-+++,Osama Atta al-Manan,IND,,
-+++,Salah Ahmed al-Nour,IND,,
+@@,itemlabel,partylabel,item,psid
+->,Ahmed Barsham Mohamed,NULL->NUP-CL,Q112861828,Q112861828-AE280D0F-9760-43D9-B2D0-C8839432F33B
+->,Fathi Mohamed Issa,NULL->NLJP,Q112861832,Q112861832-26906CC4-1A01-45DF-936A-9D3A257F5FB2
+->,Ismail Abdallah,NULL->IM,Q112861836,Q112861836-E4EE9205-50D2-491C-816A-1E01142C9048
+->,Omer Suleiman Adam,NULL->FUP,Q112861841,Q112861841-B7B66362-935A-48CE-82CC-55A904FB6670

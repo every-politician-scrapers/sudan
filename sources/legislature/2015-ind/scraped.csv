@@ -1,17 +1,17 @@
-itemLabel,constituency,state,party
+itemLabel,constituency,state,partyLabel
 Mubarak Abas,Abu Hamd,River State,IND
 Mubarak al-Nour,Al-Fashaga,Gedaref,IND
 Abu al-Gasim Bartam,Dongola,Northern,IND
-Omer Suleiman Adam,Nyala,South Darfur,IND
-Osama Atta al-Manan,Central Nyala,,IND
+Omer Suleiman Adam,Nyala,South Darfur,FUP
+Osama Atta al-Manan,Central Nyala,,DUP
 Hamid Sharif,Kass,,IND
-Ismail Abdallah,East Nyala,,IND
+Ismail Abdallah,East Nyala,,IM
 Mohamed al-Tahir Aseel,Ed el-Firsan,,IND
 Harazim Ahmed al-Mahboub,Tulus,,IND
-Fathi Mohamed Issa,Tulus,,IND
-Mohamed Adam Bahshain,Surgaila,,IND
-Ali Mahmoud,Rihaid Al-Birdi,,IND
-Ahmed Barsham Mohamed,Rihaid Al-Birdi,,IND
+Fathi Mohamed Issa,Tulus,,NLJP
+Mohamed Adam Bahshain,Surgaila,,DUP
+Ali Mahmoud,Rihaid Al-Birdi,,NCP
+Ahmed Barsham Mohamed,Rihaid Al-Birdi,,NUP-CL
 Ali Youssef Dafa’allah,Singa,Sennar,IND
 Salah Ahmed al-Nour,Singa,Sennar,IND
 Al-Tayeb Ahmed Ali,Hantoub,Gazira,IND
