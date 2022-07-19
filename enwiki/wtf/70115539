@@ -1,0 +1,218 @@
+{
+  "title": "Osman Hussein (politician)",
+  "pageID": 70115539,
+  "categories": [
+    "Living people",
+    "Prime Ministers of Sudan",
+    "Sudanese politicians",
+    "Year of birth missing (living people)"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Osman Hussein is a Sudan politician who has served as acting prime minister of Sudan since 19 January 2022, following the resignation of Abdalla Hamdok on 2 January.",
+              "links": [
+                {
+                  "text": "prime minister of Sudan",
+                  "type": "internal",
+                  "page": "prime minister of Sudan"
+                },
+                {
+                  "type": "internal",
+                  "page": "Abdalla Hamdok"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Osman Hussein"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He was the general secretary of the office of Prime Minister from 13 March 2019 until 19 January 2022."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Acting Prime Minister of Sudan since 19 January 2022 (born 1951)",
+          "template": "short description"
+        },
+        {
+          "langcode": "es",
+          "otherarticle": "Osman Hussein",
+          "date": "April 2022",
+          "template": "expand language"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Osman Hussein"
+          },
+          "office": {
+            "text": "Prime Minister of Sudan",
+            "links": [
+              {
+                "text": "Prime Minister of Sudan",
+                "type": "internal",
+                "page": "List of heads of government of Sudan"
+              }
+            ]
+          },
+          "status": {
+            "text": "Acting",
+            "links": [
+              {
+                "text": "Acting",
+                "type": "internal",
+                "page": "Acting (law)"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "19 January 2022"
+          },
+          "president": {
+            "text": "Abdel Fattah al-Burhan",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Abdel Fattah al-Burhan"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Abdalla Hamdok",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Abdalla Hamdok"
+              }
+            ]
+          },
+          "office1": {
+            "text": "General Secretary of Prime Minister Office"
+          },
+          "term_start1": {
+            "text": "13 March 2019"
+          },
+          "president1": {
+            "text": "Omar al-Bashir Ahmed Awad Ibn Auf Abdel Fattah al-Burhan",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Omar al-Bashir"
+              },
+              {
+                "type": "internal",
+                "page": "Ahmed Awad Ibn Auf"
+              },
+              {
+                "type": "internal",
+                "page": "Abdel Fattah al-Burhan"
+              }
+            ]
+          },
+          "primeminister1": {
+            "text": "Mohamed Tahir Ayala Abdalla Hamdok",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mohamed Tahir Ayala"
+              },
+              {
+                "type": "internal",
+                "page": "Abdalla Hamdok"
+              }
+            ]
+          },
+          "birth_place": {
+            "text": "Sudan",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sudan"
+              }
+            ]
+          },
+          "party": {
+            "text": "National Congress (until 2019)",
+            "links": [
+              {
+                "text": "National Congress",
+                "type": "internal",
+                "page": "National Congress (Sudan)"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://sudantribune.com/article254282/",
+          "title": "Sudan's Burhan forms caretaker government",
+          "date": "20 February 2022",
+          "website": "sudantribune.com",
+          "access-date": "19 February 2022",
+          "archive-date": "24 January 2022",
+          "archive-url": "https://web.archive.org/web/20220124205401/https://sudantribune.com/article254282/",
+          "url-status": "live",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.msn.com/en-xl/africa/other/acting-council-of-ministers-approves-general-budget-for-year-2022/ar-AASYiyW",
+          "title": "Acting Council of Ministers Approves General Budget for Year 2022",
+          "website": "MSN",
+          "access-date": "2022-02-19",
+          "archive-date": "2022-02-19",
+          "archive-url": "https://web.archive.org/web/20220219211159/https://www.msn.com/en-xl/africa/other/acting-council-of-ministers-approves-general-budget-for-year-2022/ar-AASYiyW",
+          "url-status": "live",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "من هو عثمان حسين عثمان رئيس وزارة شؤون مجلس الوزراء السوداني – المنصة",
+          "url": "https://www.almnsa.com/post/416705",
+          "access-date": "2022-04-10",
+          "website": "www.almnsa.com",
+          "language": "ar",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "prime ministers of sudan"
+        },
+        {
+          "template": "heads of government of republics"
+        },
+        {
+          "template": "leaders of arab league member states"
+        },
+        {
+          "template": "sudan-politician-stub"
+        }
+      ]
+    }
+  ]
+}

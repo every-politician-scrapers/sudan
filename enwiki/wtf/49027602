@@ -1,0 +1,215 @@
+{
+  "title": "Abdul-Hamid Musa Kasha",
+  "pageID": 49027602,
+  "categories": [
+    "Sudanese politicians",
+    "East Darfur",
+    "National Congress Party (Sudan) politicians",
+    "Living people",
+    "Year of birth missing (living people)"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Abdul-Hamid Musa Kasha is a Sudanese politician who is currently serving as the first governor of East Darfur.",
+              "links": [
+                {
+                  "text": "Sudanese",
+                  "type": "internal",
+                  "page": "Sudan"
+                },
+                {
+                  "type": "internal",
+                  "page": "East Darfur"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Abdul-Hamid Musa Kasha"
+                ]
+              }
+            },
+            {
+              "text": "He was the governor of the state from April until his resignation in December 2013, when East Darfur split from Southern Darfur.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Southern Darfur"
+                }
+              ]
+            },
+            {
+              "text": "He is also the head of the Wise Men Commission of Darfur for Unity and Reconciliation."
+            },
+            {
+              "text": "He belongs to the Rizeigat tribe, a Muslim and Arab tribe of the nomadic Bedouin Baggāra people in Sudan's Darfur region.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Rizeigat tribe"
+                },
+                {
+                  "type": "internal",
+                  "page": "Muslim"
+                },
+                {
+                  "text": "Arab",
+                  "type": "internal",
+                  "page": "Arabs"
+                },
+                {
+                  "type": "internal",
+                  "page": "Bedouin"
+                },
+                {
+                  "text": "Baggāra",
+                  "type": "internal",
+                  "page": "Baggara"
+                },
+                {
+                  "type": "internal",
+                  "page": "Sudan"
+                },
+                {
+                  "type": "internal",
+                  "page": "Darfur"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Abdul-Hamid Musa Kasha"
+          },
+          "image": {
+            "text": "File:Abdel-hamid Musa kasha.jpeg"
+          },
+          "office": {
+            "text": "First Governor of East Darfur State"
+          },
+          "term_start": {
+            "text": "April 2013"
+          },
+          "term_end": {
+            "text": "December 2013"
+          },
+          "predecessor": {
+            "text": "Position established"
+          },
+          "successor": {
+            "text": "al-Tayeb Abdel-Karim (acting)"
+          },
+          "office1": {
+            "text": "Governor of South Darfur State",
+            "links": [
+              {
+                "type": "internal",
+                "page": "South Darfur"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "April 2010"
+          },
+          "term_end1": {
+            "text": "January 2012"
+          },
+          "successor1": {
+            "text": "Hamad Ismail Hamad Abdel-Karim"
+          },
+          "party": {
+            "text": "National Congress (Sudan)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "National Congress (Sudan)"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "http://allafrica.com/stories/201312240971.html",
+          "title": "Sudanese President Appoints New Governor for East Darfur",
+          "publisher": "Sudan Tribune",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.sudantribune.com/spip.php?mot607",
+          "title": "Abdul Hamid Musa Kasha",
+          "publisher": "Sudan Tribune",
+          "accessdate": "15 January 2016",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.sudantribune.com/+-Abdul-Hamid-Musa-Kasha,607-+",
+          "title": "Abdul Hamid Musa Kasha",
+          "publisher": "Sudan Tribune",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "History",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Before East Darfur was a state, Kasha was the governor of Southern Darfur (office April 2010)."
+            },
+            {
+              "text": "He defeated Alhaj Adam Yousef, the former vice president of Sudan, in the gubernatorial elections for Southern Darfur.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Alhaj Adam Yousef"
+                },
+                {
+                  "text": "vice president",
+                  "type": "internal",
+                  "page": "vice president"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "Adam Youssef appointed vice president",
+          "url": "https://www.dabangasudan.org/en/all-news/article/adam-youssef-appointed-vice-president",
+          "access-date": "2022-02-22",
+          "website": "Radio Dabanga",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "sudan-politician-stub"
+        }
+      ]
+    }
+  ]
+}

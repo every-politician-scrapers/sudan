@@ -1,0 +1,114 @@
+{
+  "title": "Taysir El Nourani",
+  "pageID": 68029610,
+  "categories": [
+    "Living people",
+    "Sudanese political people",
+    "1965 births"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Taysir El Nourani is the Minister of Labour and Administrative Reform of Sudan.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Sudan"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Taysir El Nourani"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "El Nourani began as minister on 9 February 2021."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Sudanese minister of social welfare",
+          "template": "short description"
+        },
+        {
+          "list": [
+            "تيسير النوراني"
+          ],
+          "date": "June 2021",
+          "template": "expand arabic"
+        }
+      ],
+      "references": [
+        {
+          "author": "Radio Dabanga (Amsterdam)",
+          "url": "https://allafrica.com/stories/202102100056.html",
+          "title": "Sudan: PM Hamdok Announces Sudan's New Gvt",
+          "publisher": "allAfrica.com",
+          "date": "2021-02-09",
+          "accessdate": "2021-06-23",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "author": "Radio Dabanga (Amsterdam)",
+          "url": "https://allafrica.com/stories/202106160314.html",
+          "title": "Sudan: ♦ Sudan - This Week's News in Brief ♦",
+          "publisher": "allAfrica.com",
+          "date": "2021-06-15",
+          "accessdate": "2021-06-23",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.dabangasudan.org/en/all-news/article/sudan-this-week-s-news-in-brief-65",
+          "title": "♦ Sudan: This week's news in brief ♦ &#124; Radio Dabanga",
+          "publisher": "Dabangasudan.org",
+          "accessdate": "2021-06-23",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.dabangasudan.org/en/all-news/article/pm-hamdok-announces-sudan-s-new-gvt",
+          "title": "PM Hamdok announces Sudan's new govt &#124; Radio Dabanga",
+          "publisher": "Dabangasudan.org",
+          "accessdate": "2021-06-23",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://kushnews.net/2021/02/274581",
+          "archive-url": "https://web.archive.org/web/20210313130213/https://kushnews.net/2021/02/274581",
+          "archive-date": "2021-03-13",
+          "title": "وزيرة العمل \"تيسير النوراني\" تكشف عن خطتها للوزارة",
+          "date": "9 February 2021",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "sudan-politician-stub"
+        }
+      ]
+    }
+  ]
+}
