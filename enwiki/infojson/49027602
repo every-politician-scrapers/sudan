@@ -1,0 +1,40 @@
+[
+  {
+    "office": {
+      "links": [
+        "South Darfur"
+      ],
+      "stated_as": "Governor of South Darfur State"
+    },
+    "P580": "2010-04",
+    "P582": "2012-01",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Hamad Ismail Hamad Abdel-Karim"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "First Governor of East Darfur State"
+    },
+    "P580": "2013-04",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Position established"
+    },
+    "P582": "2013-12",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "al-Tayeb Abdel-Karim (acting)"
+    }
+  }
+]

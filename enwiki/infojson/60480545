@@ -1,0 +1,62 @@
+[
+  {
+    "office": {
+      "links": [
+        "List of heads of state of Sudan",
+        "Sovereignty Council of Sudan"
+      ],
+      "stated_as": "Chairman of the Sovereignty Council"
+    },
+    "P580": "2019-04-12",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Himself"
+    },
+    "P582": "2021-10-25",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Himself"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Transitional Military Council (2019)"
+      ],
+      "stated_as": "Chairman of the Transitional Military Council"
+    },
+    "P580": "2019-04-12",
+    "P1365": {
+      "links": [
+        "Ahmed Awad Ibn Auf"
+      ],
+      "stated_as": "Ahmed Awad Ibn Auf"
+    },
+    "P582": "2019-08-21",
+    "P1366": {
+      "links": [
+        "Sovereignty Council of Sudan"
+      ],
+      "stated_as": "Sovereignty Council"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "List of heads of state of Sudan"
+      ],
+      "stated_as": "Chairman of the Transitional Sovereignty Council"
+    },
+    "P580": "2021-10-25",
+    "P1365": {
+      "links": [
+        "Sovereignty Council of Sudan"
+      ],
+      "stated_as": "Sovereignty Council"
+    }
+  }
+]
