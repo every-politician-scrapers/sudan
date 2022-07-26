@@ -1,0 +1,45 @@
+[
+  {
+    "office": {
+      "links": [
+        "Chairperson of the Transitional Darfur Regional Authority"
+      ],
+      "stated_as": "Chairperson of the Transitional Darfur Regional Authority"
+    },
+    "P580": "2007-04-23",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "office created"
+    },
+    "P582": "2010-12-06",
+    "P1366": {
+      "links": [
+        "Shartai Jaafar Abdel Hakam"
+      ],
+      "stated_as": "Shartai Jaafar Abdel Hakam"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Darfur"
+      ],
+      "stated_as": "Governor of the Darfur Regional Government"
+    },
+    "P580": "2021-08-10",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "office created"
+    },
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Incumbent"
+    }
+  }
+]
